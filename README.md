@@ -1,7 +1,7 @@
 Teensy AudioFloat Library (Teensy Audio Library modified for floating point)
 ====================
 
-16 bit, 44.1 kHz streaming audio library for Teensy 3.5 or 3.6, featuring:
+32 bit float, 44.1 kHz streaming audio library for Teensy 3.5 or 3.6, featuring:
 
 * Polyphonic Playback
 * Recording
