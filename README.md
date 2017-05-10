@@ -1,6 +1,8 @@
 Teensy AudioFloat Library
 ====================
 
+Based on the Teensy Audio Library by Paul Stoffregen.
+
 32 bit float, 44.1 kHz streaming audio library for Teensy 3.5 or 3.6, featuring:
 
 * Polyphonic Playback
